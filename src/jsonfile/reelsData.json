@@ -1,0 +1,13 @@
+{
+    "reelsData": {
+        "x": 0,
+        "y": 0,
+       "reelOffset": 70,
+       "reelsCount": 5,
+       "shiftingDelayMS": 500,
+       "reelWidth": 230,
+       "numberOfSymbolInReel": 3,
+       "startingSpeed": 50,
+       "totalSymbols": 18
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "preLoadresources": [
+        "../jsonfile/performance.json",
+        "../jsonfile/symbolsData.json",
+        "../jsonfile/reelsData.json",
+        "../jsonfile/button.json",
+        "../jsonfile/bet.json",
+
+        "../images/buttons/nextBetCoin.png",
+        "../images/buttons/lastBetCoin.png",
+
+
+        "../images/symbols/H1.png", 
+        "../images/symbols/H2.png",
+        "../images/symbols/H3.png",
+        "../images/symbols/H4.png",
+        "../images/symbols/H5.png",
+        "../images/symbols/H6.png",
+        "../images/symbols/9.png",
+        "../images/symbols/10.png",
+        "../images/symbols/A.png",
+        "../images/symbols/J.png",
+        "../images/symbols/Q.png",
+        "../images/symbols/K.png",
+        "../images/symbols/M1.png",
+        "../images/symbols/M2.png",
+        "../images/symbols/M3.png",
+        "../images/symbols/M4.png",
+        "../images/symbols/M5.png",
+        "../images/symbols/M6.png",
+
+        "../images/symbols/H1_connect.png", 
+        "../images/symbols/H2_connect.png",
+        "../images/symbols/H3_connect.png",
+        "../images/symbols/H4_connect.png",
+        "../images/symbols/H5_connect.png",
+        "../images/symbols/H6_connect.png",
+        "../images/symbols/9_connect.png",
+        "../images/symbols/10_connect.png",
+        "../images/symbols/A_connect.png",
+        "../images/symbols/J_connect.png",
+        "../images/symbols/Q_connect.png",
+        "../images/symbols/K_connect.png",
+        "../images/symbols/M1_connect.png",
+        "../images/symbols/M2_connect.png",
+        "../images/symbols/M3_connect.png",
+        "../images/symbols/M4_connect.png",
+        "../images/symbols/M5_connect.png",
+        "../images/symbols/M6_connect.png"
+
+    ]
+}

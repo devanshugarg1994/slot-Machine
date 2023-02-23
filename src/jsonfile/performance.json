@@ -1,0 +1,29 @@
+{
+    "performance": {
+        "performanceContainer": {
+            "x": 0,
+            "y": 0,
+            "id": "performanceContainer",
+            "type": "container"
+        },
+
+        "fpsText": {
+            "x": 80,
+            "y": 20,
+            "w": 400,
+            "h": 100,
+            "id": "fpsText",
+            "text": "0.00",
+            "type": "label",
+            "visible": true,
+            "style": {
+                "fontFamily": "Arial",
+                "fontSize": 30,
+                "fill": "0xFF0000",
+                "align": "center",
+                "fontWeight": 30
+            },
+            "parent": "performanceContainer"
+        }
+    }
+}
